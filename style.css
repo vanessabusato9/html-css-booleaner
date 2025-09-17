@@ -69,6 +69,7 @@ table {
 
 .table-header {
     background-color: rgb(98, 142, 224);
+    text-align: left;
 }
 
 .w-50 {
