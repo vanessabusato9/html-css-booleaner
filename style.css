@@ -43,3 +43,13 @@ figcaption {
     font-size: small;
     margin-bottom: 10px;
 }
+
+p {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0px;
+    margin-bottom: 10px;
+}
