@@ -58,3 +58,14 @@ table {
     margin-bottom: 10px;
 }
 
+.last-paragraph {
+    margin-bottom: 25px;
+}
+
+.even {
+    background-color: rgb(71, 233, 233);
+}
+
+.table-header {
+    background-color: rgb(98, 142, 224);
+}
