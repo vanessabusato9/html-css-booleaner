@@ -56,6 +56,7 @@ ul {
 
 table {
     margin-bottom: 10px;
+    border-collapse: collapse;
 }
 
 .last-paragraph {
@@ -68,4 +69,8 @@ table {
 
 .table-header {
     background-color: rgb(98, 142, 224);
+}
+
+.w-50 {
+    width: 50%;
 }
