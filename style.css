@@ -15,3 +15,12 @@
     background-size: 20%;
     line-height: 100px;
 }
+
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.font-style {
+    font-style: normal;
+}
