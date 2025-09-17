@@ -28,6 +28,7 @@
 
 address {
     color: gray;
+    margin-bottom: 10px;
 }
 
 .text-blue {
@@ -35,5 +36,9 @@ address {
 }
 
 time {
+    font-size: small;
+}
+
+figcaption {
     font-size: small;
 }
