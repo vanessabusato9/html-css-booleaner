@@ -79,3 +79,7 @@ table {
 footer {
     margin-bottom: 25px;
 }
+
+header{
+    margin: 0;
+}
